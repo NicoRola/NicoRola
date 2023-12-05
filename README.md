@@ -38,7 +38,7 @@
 <br/>
 
 <a href="https://github.com/NicoRola">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicoRola&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicodding&theme=dracula&show_icons=true" />
 </a>
 
 <br/>
@@ -46,5 +46,5 @@
 <h3> :earth_americas: &nbsp;Où me trouver: </h3> 
 
 [![Gmail Badge](https://img.shields.io/badge/-nicolas.blondelle@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicolas.blondelle@gmail.com)](mailto:nicolas.blondelle@gmail.com)
-[![GitHub WaDixix](https://img.shields.io/github/followers/NicoRola?label=follow&style=social)](https://github.com/WaDixix)
+[![GitHub Nicodding](https://img.shields.io/github/followers/NicoRola?label=follow&style=social)](https://github.com/WaDixix)
 [![DiscordServer](https://img.shields.io/badge/-Discord-333333?style=flat&logo=discord)](https://discord.gg/)
