@@ -38,7 +38,7 @@
 <br/>
 
 <a href="https://github.com/NicoRola">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicodding&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicodding&theme=dracula&show_icons=true" /> <img height="160" src="https://github-readme-stats-zeta-virid.vercel.app/api/top-langs/?username=Nicodding&langs_count=5&layout=compact&theme=tokyonight">
 </a>
 
 <br/>
