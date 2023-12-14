@@ -46,5 +46,5 @@
 <h3> :earth_americas: &nbsp;Où me trouver: </h3> 
 
 [![Gmail Badge](https://img.shields.io/badge/-nicolas.blondelle@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicolas.blondelle@gmail.com)](mailto:nicolas.blondelle@gmail.com)
-[![GitHub Nicodding](https://img.shields.io/github/followers/NicoRola?label=follow&style=social)](https://github.com/WaDixix)
+[![GitHub Nicodding](https://img.shields.io/github/followers/Nicodding?label=follow&style=social)](https://github.com/Nicodding)
 [![DiscordServer](https://img.shields.io/badge/-Discord-333333?style=flat&logo=discord)](https://discord.gg/)
